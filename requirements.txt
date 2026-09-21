@@ -1,0 +1,19 @@
+# Core runtime
+Flask
+opencv-python
+numpy
+python-dotenv
+bcrypt
+
+# Computer vision models and face recognition
+torch
+torchvision
+torchaudio
+ultralytics
+face-recognition
+
+# Persistent object tracking. The application has an IoU fallback if unavailable.
+supervision
+
+# Optional notification provider. SMTP uses Python's standard library.
+twilio
